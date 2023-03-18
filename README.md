@@ -25,7 +25,11 @@ As coordenadas, foram criadas para ao clique com o mouse seja encmainhado para a
 
 # O que falta finalizar
 - A página de detalhes dos pokemons; <br/>
-- Ademais alterações vou refazer
+- Ademais alterações vou refazer<br/>
+
+# Link do Surge
+
+- projeto-pokedex-stepconway.surge.sh <br/>
 
 ## Desenvolvedor
 Maria Stephanie Rodrigues Pereira (https://github.com/sstephanier)
